@@ -10,3 +10,4 @@ Steps involved:
 1. targeted that object via var name in events.js
 1. fun!
 1. *just the leftmost region which is rendered in black is actionable
+1. check the console for xpos, we can put our modals wherever we want based on this!
