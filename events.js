@@ -9,5 +9,5 @@ regionA.mouseover((e) => {
 
 regionA.mouseout( (e) => {
     e.target.style.opacity = 1;
-    console.log(e.pageX);
+    console.log(`x: ${e.pageX} y: ${e.pageY}`);
 })
